@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationServiceAPI", "RegistrationServiceAPI\RegistrationServiceAPI.csproj", "{7320B8EC-02EF-411E-9D6B-B456E1D2E949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7320B8EC-02EF-411E-9D6B-B456E1D2E949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7320B8EC-02EF-411E-9D6B-B456E1D2E949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7320B8EC-02EF-411E-9D6B-B456E1D2E949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7320B8EC-02EF-411E-9D6B-B456E1D2E949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD85368A-5000-4D21-B309-86086B45075A}
+	EndGlobalSection
+EndGlobal
